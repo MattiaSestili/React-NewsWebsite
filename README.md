@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Please run the script `npm install` to insure you have all the modules used in the development
+Please run the script `npm install` to insure you have all the modules used in the development.
+
 Then run `npm start` to load the project locally
 
 ## Available Scripts
