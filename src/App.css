@@ -1,0 +1,19 @@
+.author-header {
+    color: #d30d1d;
+    text-align: center;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.article-container {
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.article-container:hover>img {
+    opacity: 0.7;
+}
+
+.article-container:hover {
+    color: #6c757d;
+}
